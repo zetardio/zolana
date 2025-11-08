@@ -1,21 +1,21 @@
 <div align="center">
   <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=68cbd04e19073ad1598fefb85c342b42f529beb2&v=4/>
-  <h1>Privacy348</h1>
+  <h1>Claude Cash</h1>
 
   <p>
     <strong>Privacy-First Program Framework for Solana Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://Privacy348-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Privacy348"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Privacy348/Privacy348?color=blueviolet" /></a>
+    <a href="https://Claude Cash-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/Claude Cash"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Claude Cash/Claude Cash?color=blueviolet" /></a>
   </p>
 </div>
 
-## What is Privacy348?
+## What is Claude Cash?
 
-Privacy348 is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
+Claude Cash is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
 
 - **Unified Privacy API**: One codebase for encrypted transactions across Solana
 - **Private Token Creation**: Create SPL tokens with built-in encryption and zero-knowledge proofs
@@ -24,10 +24,10 @@ Privacy348 is a groundbreaking framework built for the Solana ecosystem, providi
 - **TypeScript package**: Type-safe clients from IDL for encrypted communication
 - **CLI and workspace management**: Complete privacy-first application development
 
-Privacy348 is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
+Claude Cash is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
 
 > [!NOTE]
-> Privacy348 combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with Privacy348's privacy-enhanced approach.
+> Claude Cash combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with Claude Cash's privacy-enhanced approach.
 
 ## Key Features
 
@@ -40,13 +40,13 @@ Privacy348 is the first framework to bring Zcash-style privacy to Solana, enabli
 - **Lightning Fast**: Leverage Solana's 400ms block times and sub-second finality
 - **Ultra Low Fees**: Deploy and transact with ~$0.00025 median transaction fees
 
-## Why Solana & Privacy348?
+## Why Solana & Claude Cash?
 
 ### Solana (2025 Performance)
 Solana continues to lead in performance with 400ms block times, processing over 65,000 transactions per second at peak, with average fees remaining under $0.001. The network handles millions of daily transactions with consistent sub-second finality.
 
-### Privacy348 - Privacy for Solana
-Privacy348 leverages Solana's infrastructure to provide:
+### Claude Cash - Privacy for Solana
+Claude Cash leverages Solana's infrastructure to provide:
 - **Zero-Knowledge Architecture**: Built on proven ZK-SNARK technology
 - **Full SPL Compatibility**: Private versions of any SPL token
 - **Solana Ecosystem Integration**: Seamless interaction with existing Solana programs
@@ -54,23 +54,23 @@ Privacy348 leverages Solana's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Privacy348 book](https://book.Privacy348-lang.com) and the [Privacy348 documentation](https://Privacy348-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Claude Cash book](https://book.Claude Cash-lang.com) and the [Claude Cash documentation](https://Claude Cash-lang.com).
 
-To jump straight to examples, go [here](https://github.com/Privacy348/Privacy348/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Privacy348-lang) and the [typedoc](https://www.Privacy348-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/Claude Cash/Claude Cash/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Claude Cash-lang) and the [typedoc](https://www.Claude Cash-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Privacy348-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/Privacy348-lang?color=blue)](https://crates.io/crates/Privacy348-lang)                     | [![Docs.rs](https://docs.rs/Privacy348-lang/badge.svg)](https://docs.rs/Privacy348-lang)                                |
-| `Privacy348-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/Privacy348-spl?color=blue)](https://crates.io/crates/Privacy348-spl)                          | [![Docs.rs](https://docs.rs/Privacy348-spl/badge.svg)](https://docs.rs/Privacy348-spl)                                  |
-| `Privacy348-client`         | Rust client for Privacy348 privacy programs              | [![crates](https://img.shields.io/crates/v/Privacy348-client?color=blue)](https://crates.io/crates/Privacy348-client)                    | [![Docs.rs](https://docs.rs/Privacy348-client/badge.svg)](https://docs.rs/Privacy348-client)                            |
-| `@Privacy348/sdk`           | TypeScript client for Privacy348 programs                    | [![npm](https://img.shields.io/npm/v/@Privacy348/sdk.svg?color=blue)](https://www.npmjs.com/package/@Privacy348/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Privacy348.github.io/Privacy348/ts/index.html)        |
-| `@Privacy348/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@Privacy348/cli.svg?color=blue)](https://www.npmjs.com/package/@Privacy348/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Privacy348.github.io/Privacy348/cli/commands.html)    |
+| `Claude Cash-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/Claude Cash-lang?color=blue)](https://crates.io/crates/Claude Cash-lang)                     | [![Docs.rs](https://docs.rs/Claude Cash-lang/badge.svg)](https://docs.rs/Claude Cash-lang)                                |
+| `Claude Cash-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/Claude Cash-spl?color=blue)](https://crates.io/crates/Claude Cash-spl)                          | [![Docs.rs](https://docs.rs/Claude Cash-spl/badge.svg)](https://docs.rs/Claude Cash-spl)                                  |
+| `Claude Cash-client`         | Rust client for Claude Cash privacy programs              | [![crates](https://img.shields.io/crates/v/Claude Cash-client?color=blue)](https://crates.io/crates/Claude Cash-client)                    | [![Docs.rs](https://docs.rs/Claude Cash-client/badge.svg)](https://docs.rs/Claude Cash-client)                            |
+| `@Claude Cash/sdk`           | TypeScript client for Claude Cash programs                    | [![npm](https://img.shields.io/npm/v/@Claude Cash/sdk.svg?color=blue)](https://www.npmjs.com/package/@Claude Cash/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Claude Cash.github.io/Claude Cash/ts/index.html)        |
+| `@Claude Cash/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@Claude Cash/cli.svg?color=blue)](https://www.npmjs.com/package/@Claude Cash/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Claude Cash.github.io/Claude Cash/cli/commands.html)    |
 
 ## Note
 
-- **Privacy348 is in active development, so all APIs are subject to change.**
+- **Claude Cash is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
@@ -78,8 +78,8 @@ To jump straight to examples, go [here](https://github.com/Privacy348/Privacy348
 Here's a private counter program that maintains an encrypted count, where only the designated `authority` can increment and view the real value:
 
 ```rust
-use Privacy348_lang::prelude::*;
-use Privacy348_lang::privacy::*;
+use Claude Cash_lang::prelude::*;
+use Claude Cash_lang::privacy::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -177,23 +177,23 @@ pub enum ErrorCode {
 
 ```bash
 # Create a private SPL token with encrypted balances
-Privacy348 token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
+Claude Cash token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
 
 # Deploy with privacy features
-Privacy348 deploy --privacy-level high
+Claude Cash deploy --privacy-level high
 
 # Create shielded addresses
-Privacy348 address generate --type shielded
+Claude Cash address generate --type shielded
 
 # Send encrypted transaction
-Privacy348 transfer --to <shielded-address> --amount 100 --private
+Claude Cash transfer --to <shielded-address> --amount 100 --private
 ```
 
 ### Private Token Transfer Example
 
 ```rust
-use Privacy348_lang::prelude::*;
-use Privacy348_spl::private_token::*;
+use Claude Cash_lang::prelude::*;
+use Claude Cash_spl::private_token::*;
 
 declare_id!("PrivateTokenProgram111111111111111111111111");
 
@@ -242,11 +242,11 @@ mod private_transfer {
 }
 ```
 
-For more, see the [examples](https://github.com/Privacy348/Privacy348/tree/master/examples) and [tests](https://github.com/Privacy348/Privacy348/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Claude Cash/Claude Cash/tree/master/examples) and [tests](https://github.com/Claude Cash/Claude Cash/tree/master/tests) directories.
 
 ## Architecture
 
-Privacy348 uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
+Claude Cash uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
 
 - **Zero-Knowledge Proofs**: Generate and verify ZK-SNARKs for private transactions
 - **Encrypted State**: Store sensitive data on-chain with homomorphic encryption
@@ -257,7 +257,7 @@ Privacy348 uses a privacy-first runtime that integrates cryptographic primitives
 
 ## Privacy Technology
 
-Privacy348 implements multiple privacy-preserving techniques:
+Claude Cash implements multiple privacy-preserving techniques:
 
 ### Zero-Knowledge Proofs
 - **ZK-SNARKs**: Succinct non-interactive arguments of knowledge
@@ -307,7 +307,7 @@ Privacy348 implements multiple privacy-preserving techniques:
 - **Confidential Voting**: Anonymous governance participation
 - **Selective Disclosure**: Compliance and audit capabilities
 
-## Why Choose Privacy348?
+## Why Choose Claude Cash?
 
 ### For Developers
 - **Familiar Tools**: Built on Anchor and Solana standards
@@ -332,26 +332,26 @@ Privacy348 implements multiple privacy-preserving techniques:
 
 ## License
 
-Privacy348 is licensed under [Apache 2.0](./LICENSE).
+Claude Cash is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Privacy348 by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Claude Cash by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Privacy348!
+Thank you for your interest in contributing to Claude Cash!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Private
 
-Privacy348 represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
+Claude Cash represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
 
-With Solana's commitment to scalability and decentralization, combined with Privacy348's privacy-first approach, we're building the foundation for truly private, decentralized finance.
+With Solana's commitment to scalability and decentralization, combined with Claude Cash's privacy-first approach, we're building the foundation for truly private, decentralized finance.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Privacy348/Privacy348/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Privacy348/Privacy348" width="100%" />
+  <a href="https://github.com/Claude Cash/Claude Cash/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Claude Cash/Claude Cash" width="100%" />
   </a>
 </div>
 
@@ -361,7 +361,7 @@ With Solana's commitment to scalability and decentralization, combined with Priv
 
 - [Solana Official Documentation](https://docs.solana.com/)
 - [Zero-Knowledge Proofs Explained](https://z.cash/technology/zksnarks/)
-- [Privacy348 Network Documentation](#) (Coming soon)
+- [Claude Cash Network Documentation](#) (Coming soon)
 - [Solana Developer Resources](https://solana.com/developers)
 - [Privacy-Preserving Cryptocurrencies Research](https://crypto.stanford.edu/)
 - [SPL Token Documentation](https://spl.solana.com/token)
@@ -370,20 +370,20 @@ With Solana's commitment to scalability and decentralization, combined with Priv
 
 ## Security & Audits
 
-Privacy and security are paramount. Privacy348 undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
+Privacy and security are paramount. Claude Cash undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
 
 ## Community
 
 Join our growing community of privacy advocates and developers:
 
-- **Discord**: [discord.gg/Privacy348](https://discord.gg/Privacy348)
-- **Twitter**: [@Privacy348](https://twitter.com/Privacy348)
-- **Forum**: [forum.Privacy348.com](https://forum.Privacy348.com)
-- **Telegram**: [t.me/Privacy348](https://t.me/Privacy348)
+- **Discord**: [discord.gg/Claude Cash](https://discord.gg/Claude Cash)
+- **Twitter**: [@Claude Cash](https://twitter.com/Claude Cash)
+- **Forum**: [forum.Claude Cash.com](https://forum.Claude Cash.com)
+- **Telegram**: [t.me/Claude Cash](https://t.me/Claude Cash)
 
 ## Acknowledgments
 
-Privacy348 builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
+Claude Cash builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
 
-**Privacy is a right, not a privilege. Build with Privacy348.**
+**Privacy is a right, not a privilege. Build with Claude Cash.**
 ](https://avatars.githubusercontent.com/u/53411373?v=4)
