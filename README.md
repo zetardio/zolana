@@ -1,21 +1,21 @@
 <div align="center">
   <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=68cbd04e19073ad1598fefb85c342b42f529beb2&v=4/>
-  <h1>zetardio</h1>
+  <h1>Zolana Cash</h1>
 
   <p>
     <strong>Privacy-First Program Framework for Solana Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://zetardio-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/zetardio"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/zetardio/zetardio?color=blueviolet" /></a>
+    <a href="https://Zolana Cash-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/Zolana Cash"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Zolana Cash/Zolana Cash?color=blueviolet" /></a>
   </p>
 </div>
 
-## What is zetardio?
+## What is Zolana Cash?
 
-zetardio is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
+Zolana Cash is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
 
 - **Unified Privacy API**: One codebase for encrypted transactions across Solana
 - **Private Token Creation**: Create SPL tokens with built-in encryption and zero-knowledge proofs
@@ -24,10 +24,10 @@ zetardio is a groundbreaking framework built for the Solana ecosystem, providing
 - **TypeScript package**: Type-safe clients from IDL for encrypted communication
 - **CLI and workspace management**: Complete privacy-first application development
 
-zetardio is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
+Zolana Cash is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
 
 > [!NOTE]
-> zetardio combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with zetardio's privacy-enhanced approach.
+> Zolana Cash combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with Zolana Cash's privacy-enhanced approach.
 
 ## Key Features
 
@@ -40,13 +40,13 @@ zetardio is the first framework to bring Zcash-style privacy to Solana, enabling
 - **Lightning Fast**: Leverage Solana's 400ms block times and sub-second finality
 - **Ultra Low Fees**: Deploy and transact with ~$0.00025 median transaction fees
 
-## Why Solana & zetardio?
+## Why Solana & Zolana Cash?
 
 ### Solana (2025 Performance)
 Solana continues to lead in performance with 400ms block times, processing over 65,000 transactions per second at peak, with average fees remaining under $0.001. The network handles millions of daily transactions with consistent sub-second finality.
 
-### zetardio - Privacy for Solana
-zetardio leverages Solana's infrastructure to provide:
+### Zolana Cash - Privacy for Solana
+Zolana Cash leverages Solana's infrastructure to provide:
 - **Zero-Knowledge Architecture**: Built on proven ZK-SNARK technology
 - **Full SPL Compatibility**: Private versions of any SPL token
 - **Solana Ecosystem Integration**: Seamless interaction with existing Solana programs
@@ -54,23 +54,23 @@ zetardio leverages Solana's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [zetardio book](https://book.zetardio-lang.com) and the [zetardio documentation](https://zetardio-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Zolana Cash book](https://book.Zolana Cash-lang.com) and the [Zolana Cash documentation](https://Zolana Cash-lang.com).
 
-To jump straight to examples, go [here](https://github.com/zetardio/zetardio/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/zetardio-lang) and the [typedoc](https://www.zetardio-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/Zolana Cash/Zolana Cash/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Zolana Cash-lang) and the [typedoc](https://www.Zolana Cash-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `zetardio-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/zetardio-lang?color=blue)](https://crates.io/crates/zetardio-lang)                     | [![Docs.rs](https://docs.rs/zetardio-lang/badge.svg)](https://docs.rs/zetardio-lang)                                |
-| `zetardio-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/zetardio-spl?color=blue)](https://crates.io/crates/zetardio-spl)                          | [![Docs.rs](https://docs.rs/zetardio-spl/badge.svg)](https://docs.rs/zetardio-spl)                                  |
-| `zetardio-client`         | Rust client for zetardio privacy programs              | [![crates](https://img.shields.io/crates/v/zetardio-client?color=blue)](https://crates.io/crates/zetardio-client)                    | [![Docs.rs](https://docs.rs/zetardio-client/badge.svg)](https://docs.rs/zetardio-client)                            |
-| `@zetardio/sdk`           | TypeScript client for zetardio programs                    | [![npm](https://img.shields.io/npm/v/@zetardio/sdk.svg?color=blue)](https://www.npmjs.com/package/@zetardio/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://zetardio.github.io/zetardio/ts/index.html)        |
-| `@zetardio/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@zetardio/cli.svg?color=blue)](https://www.npmjs.com/package/@zetardio/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://zetardio.github.io/zetardio/cli/commands.html)    |
+| `Zolana Cash-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/Zolana Cash-lang?color=blue)](https://crates.io/crates/Zolana Cash-lang)                     | [![Docs.rs](https://docs.rs/Zolana Cash-lang/badge.svg)](https://docs.rs/Zolana Cash-lang)                                |
+| `Zolana Cash-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/Zolana Cash-spl?color=blue)](https://crates.io/crates/Zolana Cash-spl)                          | [![Docs.rs](https://docs.rs/Zolana Cash-spl/badge.svg)](https://docs.rs/Zolana Cash-spl)                                  |
+| `Zolana Cash-client`         | Rust client for Zolana Cash privacy programs              | [![crates](https://img.shields.io/crates/v/Zolana Cash-client?color=blue)](https://crates.io/crates/Zolana Cash-client)                    | [![Docs.rs](https://docs.rs/Zolana Cash-client/badge.svg)](https://docs.rs/Zolana Cash-client)                            |
+| `@Zolana Cash/sdk`           | TypeScript client for Zolana Cash programs                    | [![npm](https://img.shields.io/npm/v/@Zolana Cash/sdk.svg?color=blue)](https://www.npmjs.com/package/@Zolana Cash/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Zolana Cash.github.io/Zolana Cash/ts/index.html)        |
+| `@Zolana Cash/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@Zolana Cash/cli.svg?color=blue)](https://www.npmjs.com/package/@Zolana Cash/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Zolana Cash.github.io/Zolana Cash/cli/commands.html)    |
 
 ## Note
 
-- **zetardio is in active development, so all APIs are subject to change.**
+- **Zolana Cash is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
@@ -78,8 +78,8 @@ To jump straight to examples, go [here](https://github.com/zetardio/zetardio/tre
 Here's a private counter program that maintains an encrypted count, where only the designated `authority` can increment and view the real value:
 
 ```rust
-use zetardio_lang::prelude::*;
-use zetardio_lang::privacy::*;
+use Zolana Cash_lang::prelude::*;
+use Zolana Cash_lang::privacy::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -177,23 +177,23 @@ pub enum ErrorCode {
 
 ```bash
 # Create a private SPL token with encrypted balances
-zetardio token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
+Zolana Cash token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
 
 # Deploy with privacy features
-zetardio deploy --privacy-level high
+Zolana Cash deploy --privacy-level high
 
 # Create shielded addresses
-zetardio address generate --type shielded
+Zolana Cash address generate --type shielded
 
 # Send encrypted transaction
-zetardio transfer --to <shielded-address> --amount 100 --private
+Zolana Cash transfer --to <shielded-address> --amount 100 --private
 ```
 
 ### Private Token Transfer Example
 
 ```rust
-use zetardio_lang::prelude::*;
-use zetardio_spl::private_token::*;
+use Zolana Cash_lang::prelude::*;
+use Zolana Cash_spl::private_token::*;
 
 declare_id!("PrivateTokenProgram111111111111111111111111");
 
@@ -242,11 +242,11 @@ mod private_transfer {
 }
 ```
 
-For more, see the [examples](https://github.com/zetardio/zetardio/tree/master/examples) and [tests](https://github.com/zetardio/zetardio/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Zolana Cash/Zolana Cash/tree/master/examples) and [tests](https://github.com/Zolana Cash/Zolana Cash/tree/master/tests) directories.
 
 ## Architecture
 
-zetardio uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
+Zolana Cash uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
 
 - **Zero-Knowledge Proofs**: Generate and verify ZK-SNARKs for private transactions
 - **Encrypted State**: Store sensitive data on-chain with homomorphic encryption
@@ -257,7 +257,7 @@ zetardio uses a privacy-first runtime that integrates cryptographic primitives d
 
 ## Privacy Technology
 
-zetardio implements multiple privacy-preserving techniques:
+Zolana Cash implements multiple privacy-preserving techniques:
 
 ### Zero-Knowledge Proofs
 - **ZK-SNARKs**: Succinct non-interactive arguments of knowledge
@@ -307,7 +307,7 @@ zetardio implements multiple privacy-preserving techniques:
 - **Confidential Voting**: Anonymous governance participation
 - **Selective Disclosure**: Compliance and audit capabilities
 
-## Why Choose zetardio?
+## Why Choose Zolana Cash?
 
 ### For Developers
 - **Familiar Tools**: Built on Anchor and Solana standards
@@ -332,26 +332,26 @@ zetardio implements multiple privacy-preserving techniques:
 
 ## License
 
-zetardio is licensed under [Apache 2.0](./LICENSE).
+Zolana Cash is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in zetardio by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Zolana Cash by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to zetardio!
+Thank you for your interest in contributing to Zolana Cash!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Private
 
-zetardio represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
+Zolana Cash represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
 
-With Solana's commitment to scalability and decentralization, combined with zetardio's privacy-first approach, we're building the foundation for truly private, decentralized finance.
+With Solana's commitment to scalability and decentralization, combined with Zolana Cash's privacy-first approach, we're building the foundation for truly private, decentralized finance.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/zetardio/zetardio/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=zetardio/zetardio" width="100%" />
+  <a href="https://github.com/Zolana Cash/Zolana Cash/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Zolana Cash/Zolana Cash" width="100%" />
   </a>
 </div>
 
@@ -361,7 +361,7 @@ With Solana's commitment to scalability and decentralization, combined with zeta
 
 - [Solana Official Documentation](https://docs.solana.com/)
 - [Zero-Knowledge Proofs Explained](https://z.cash/technology/zksnarks/)
-- [zetardio Network Documentation](#) (Coming soon)
+- [Zolana Cash Network Documentation](#) (Coming soon)
 - [Solana Developer Resources](https://solana.com/developers)
 - [Privacy-Preserving Cryptocurrencies Research](https://crypto.stanford.edu/)
 - [SPL Token Documentation](https://spl.solana.com/token)
@@ -370,20 +370,20 @@ With Solana's commitment to scalability and decentralization, combined with zeta
 
 ## Security & Audits
 
-Privacy and security are paramount. zetardio undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
+Privacy and security are paramount. Zolana Cash undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
 
 ## Community
 
 Join our growing community of privacy advocates and developers:
 
-- **Discord**: [discord.gg/zetardio](https://discord.gg/zetardio)
-- **Twitter**: [@zetardio](https://twitter.com/zetardio)
-- **Forum**: [forum.zetardio.com](https://forum.zetardio.com)
-- **Telegram**: [t.me/zetardio](https://t.me/zetardio)
+- **Discord**: [discord.gg/Zolana Cash](https://discord.gg/Zolana Cash)
+- **Twitter**: [@Zolana Cash](https://twitter.com/Zolana Cash)
+- **Forum**: [forum.Zolana Cash.com](https://forum.Zolana Cash.com)
+- **Telegram**: [t.me/Zolana Cash](https://t.me/Zolana Cash)
 
 ## Acknowledgments
 
-zetardio builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
+Zolana Cash builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
 
-**Privacy is a right, not a privilege. Build with zetardio.**
+**Privacy is a right, not a privilege. Build with Zolana Cash.**
 ](https://avatars.githubusercontent.com/u/53411373?v=4)
